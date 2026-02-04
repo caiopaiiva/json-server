@@ -1,251 +1,35 @@
-[
+{
+  "disciplina": "Android",
+  "alunos": [
     {
-        "flags": {
-            "png": "https://flagcdn.com/w320/ad.png",
-            "svg": "https://flagcdn.com/ad.svg",
-            "alt": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band."
-        },
-        "name": {
-            "common": "Andorra",
-            "official": "Principality of Andorra",
-            "nativeName": {
-                "cat": {
-                    "official": "Principat d'Andorra",
-                    "common": "Andorra"
-                }
-            }
-        }
+      "nome": "Ana",
+      "nota1": 5.8,
+      "nota2": 5.4,
+      "frequencias": [true, true, true, false, true]
     },
     {
-        "flags": {
-            "png": "https://flagcdn.com/w320/tt.png",
-            "svg": "https://flagcdn.com/tt.svg",
-            "alt": "The flag of Trinidad and Tobago has a red field with a white-edged black diagonal band that extends from the upper hoist-side corner to the lower fly-side corner of the field."
-        },
-        "name": {
-            "common": "Trinidad and Tobago",
-            "official": "Republic of Trinidad and Tobago",
-            "nativeName": {
-                "eng": {
-                    "official": "Republic of Trinidad and Tobago",
-                    "common": "Trinidad and Tobago"
-                }
-            }
-        }
+      "nome": "Marcos",
+      "nota1": 6.0,
+      "nota2": 6.5,
+      "frequencias": [true, false, true, true, true]
     },
     {
-        "flags": {
-            "png": "https://flagcdn.com/w320/rs.png",
-            "svg": "https://flagcdn.com/rs.svg",
-            "alt": "The flag of Serbia is composed of three equal horizontal bands of red, blue and white. The coat of arms of Serbia is superimposed at the center of the field slightly towards the hoist side."
-        },
-        "name": {
-            "common": "Serbia",
-            "official": "Republic of Serbia",
-            "nativeName": {
-                "srp": {
-                    "official": "Република Србија",
-                    "common": "Србија"
-                }
-            }
-        }
+      "nome": "Hyan",
+      "nota1": 9.0,
+      "nota2": 8.8,
+      "frequencias": [true, true, true, true, true]
     },
     {
-        "flags": {
-            "png": "https://flagcdn.com/w320/gb.png",
-            "svg": "https://flagcdn.com/gb.svg",
-            "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
-        },
-        "name": {
-            "common": "United Kingdom",
-            "official": "United Kingdom of Great Britain and Northern Ireland",
-            "nativeName": {
-                "eng": {
-                    "official": "United Kingdom of Great Britain and Northern Ireland",
-                    "common": "United Kingdom"
-                }
-            }
-        }
+      "nome": "Lucas",
+      "nota1": 5.5,
+      "nota2": 6.0,
+      "frequencias": [false, true, false, true, true]
     },
     {
-        "flags": {
-            "png": "https://flagcdn.com/w320/ru.png",
-            "svg": "https://flagcdn.com/ru.svg",
-            "alt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red."
-        },
-        "name": {
-            "common": "Russia",
-            "official": "Russian Federation",
-            "nativeName": {
-                "rus": {
-                    "official": "Российская Федерация",
-                    "common": "Россия"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/hk.png",
-            "svg": "https://flagcdn.com/hk.svg",
-            "alt": ""
-        },
-        "name": {
-            "common": "Hong Kong",
-            "official": "Hong Kong Special Administrative Region of the People's Republic of China",
-            "nativeName": {
-                "eng": {
-                    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
-                    "common": "Hong Kong"
-                },
-                "zho": {
-                    "official": "中华人民共和国香港特别行政区",
-                    "common": "香港"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/eh.png",
-            "svg": "https://flagcdn.com/eh.svg",
-            "alt": ""
-        },
-        "name": {
-            "common": "Western Sahara",
-            "official": "Sahrawi Arab Democratic Republic",
-            "nativeName": {
-                "ber": {
-                    "official": "Sahrawi Arab Democratic Republic",
-                    "common": "Western Sahara"
-                },
-                "mey": {
-                    "official": "الجمهورية العربية الصحراوية الديمقراطية",
-                    "common": "الصحراء الغربية"
-                },
-                "spa": {
-                    "official": "República Árabe Saharaui Democrática",
-                    "common": "Sahara Occidental"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/uy.png",
-            "svg": "https://flagcdn.com/uy.svg",
-            "alt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face — the Sun of May — from which sixteen rays extend. The sun's rays alternate between triangular and wavy."
-        },
-        "name": {
-            "common": "Uruguay",
-            "official": "Oriental Republic of Uruguay",
-            "nativeName": {
-                "spa": {
-                    "official": "República Oriental del Uruguay",
-                    "common": "Uruguay"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/bb.png",
-            "svg": "https://flagcdn.com/bb.svg",
-            "alt": "The flag of Barbados is composed of three equal vertical bands of ultramarine, gold and ultramarine. The head of a black trident is centered in the gold band."
-        },
-        "name": {
-            "common": "Barbados",
-            "official": "Barbados",
-            "nativeName": {
-                "eng": {
-                    "official": "Barbados",
-                    "common": "Barbados"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/ps.png",
-            "svg": "https://flagcdn.com/ps.svg",
-            "alt": ""
-        },
-        "name": {
-            "common": "Palestine",
-            "official": "State of Palestine",
-            "nativeName": {
-                "ara": {
-                    "official": "دولة فلسطين",
-                    "common": "فلسطين"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/mx.png",
-            "svg": "https://flagcdn.com/mx.svg",
-            "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
-        },
-        "name": {
-            "common": "Mexico",
-            "official": "United Mexican States",
-            "nativeName": {
-                "spa": {
-                    "official": "Estados Unidos Mexicanos",
-                    "common": "México"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/mw.png",
-            "svg": "https://flagcdn.com/mw.svg",
-            "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
-        },
-        "name": {
-            "common": "Malawi",
-            "official": "Republic of Malawi",
-            "nativeName": {
-                "eng": {
-                    "official": "Republic of Malawi",
-                    "common": "Malawi"
-                },
-                "nya": {
-                    "official": "Chalo cha Malawi, Dziko la Malaŵi",
-                    "common": "Malaŵi"
-                }
-            }
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/aq.png",
-            "svg": "https://flagcdn.com/aq.svg",
-            "alt": ""
-        },
-        "name": {
-            "common": "Antarctica",
-            "official": "Antarctica",
-            "nativeName": {}
-        }
-    },
-    {
-        "flags": {
-            "png": "https://flagcdn.com/w320/nc.png",
-            "svg": "https://flagcdn.com/nc.svg",
-            "alt": ""
-        },
-        "name": {
-            "common": "New Caledonia",
-            "official": "New Caledonia",
-            "nativeName": {
-                "fra": {
-                    "official": "Nouvelle-Calédonie",
-                    "common": "Nouvelle-Calédonie"
-                }
-            }
-        }
+      "nome": "Eduardo",
+      "nota1": 7.5,
+      "nota2": 7.8,
+      "frequencias": [true, true, false, true, false]
     }
-]
+  ]
+}
